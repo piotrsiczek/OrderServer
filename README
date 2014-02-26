@@ -1,6 +1,6 @@
-Restaurant Ordering System
+##Restaurant Ordering System##
 
-This project consists of two modules:
+####This project consists of two modules:####
 1. OrderClient
 2. OrderServer
 
